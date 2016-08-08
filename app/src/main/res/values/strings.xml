@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Update Status</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_section1">Select</string>
+    <string name="title_section2">Write</string>
+    <string name="title_section3">Search</string>
+    <string name="tab3_textview">Hello</string>
+    <string name="app_search">search quote</string>
+
+</resources>
